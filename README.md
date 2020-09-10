@@ -1,2 +1,2 @@
 # Carousel
-Universal slider script with indicators
+Universal slider module with indicators
